@@ -257,7 +257,7 @@ body {
   height: 100vh;
   text-align: center;
   color: #ffffff;
-  background-image: linear-gradient(45deg, rgba(255, 87, 34, 0.75), rgba(255, 193, 7, 0.75)), url("/../../src/img/header-mobile.webp");
+  background-image: linear-gradient(45deg, rgba(255, 87, 34, 0.75), rgba(255, 193, 7, 0.75)), url("../../src/img/header-mobile.webp");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -314,7 +314,7 @@ body {
 .hero-img {
   position: relative;
   padding: 10em 2em;
-  background-image: linear-gradient(45deg, rgba(255, 87, 34, 0.75), rgba(255, 193, 7, 0.75)), url("/../../src/img/hero-mobile.webp");
+  background-image: linear-gradient(45deg, rgba(255, 87, 34, 0.75), rgba(255, 193, 7, 0.75)), url("../../src/img/hero-mobile.webp");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -364,13 +364,13 @@ body {
   transition: transform 1s, opacity 1s, -webkit-transform 1s;
 }
 .massages__card-img--first {
-  background-image: linear-gradient(45deg, rgba(0, 188, 212, 0.75), rgba(255, 235, 59, 0.75)), url("/../../src/img/massage1.webp");
+  background-image: linear-gradient(45deg, rgba(0, 188, 212, 0.75), rgba(255, 235, 59, 0.75)), url("../../src/img/massage1.webp");
 }
 .massages__card-img--second {
-  background-image: linear-gradient(45deg, rgba(255, 87, 34, 0.75), rgba(255, 193, 7, 0.75)), url("/../../src/img/massage2.webp");
+  background-image: linear-gradient(45deg, rgba(255, 87, 34, 0.75), rgba(255, 193, 7, 0.75)), url("../../src/img/massage2.webp");
 }
 .massages__card-img--third {
-  background-image: linear-gradient(45deg, rgba(156, 39, 176, 0.75), rgba(103, 58, 183, 0.75)), url("/../../src/img/massage3.webp");
+  background-image: linear-gradient(45deg, rgba(156, 39, 176, 0.75), rgba(103, 58, 183, 0.75)), url("../../src/img/massage3.webp");
 }
 .massages__card-img-title {
   font-family: "Dancing Script", cursive;
@@ -452,7 +452,7 @@ body {
 
 .offers {
   position: relative;
-  background-image: linear-gradient(45deg, rgba(255, 87, 34, 0.75), rgba(255, 193, 7, 0.75)), url("/../../src/img/offer-mobile.webp");
+  background-image: linear-gradient(45deg, rgba(255, 87, 34, 0.75), rgba(255, 193, 7, 0.75)), url("../../src/img/offer-mobile.webp");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -796,7 +796,7 @@ body {
     right: 50px;
   }
   .header {
-    background-image: linear-gradient(45deg, rgba(255, 87, 34, 0.75), rgba(255, 193, 7, 0.75)), url("/../../src/img/header-desktop.webp");
+    background-image: linear-gradient(45deg, rgba(255, 87, 34, 0.75), rgba(255, 193, 7, 0.75)), url("../../src/img/header-desktop.webp");
   }
   .header__heading {
     font-size: 10rem;
@@ -828,7 +828,7 @@ body {
   }
   .hero-img {
     padding: 40rem 2em;
-    background-image: linear-gradient(45deg, rgba(255, 87, 34, 0.75), rgba(255, 193, 7, 0.75)), url("/../../src/img/hero-desktop.webp");
+    background-image: linear-gradient(45deg, rgba(255, 87, 34, 0.75), rgba(255, 193, 7, 0.75)), url("../../src/img/hero-desktop.webp");
   }
   .hero-img__title {
     font-size: 7.2rem;
@@ -838,7 +838,7 @@ body {
     max-width: 900px;
   }
   .offers {
-    background-image: linear-gradient(45deg, rgba(255, 87, 34, 0.75), rgba(255, 193, 7, 0.75)), url("/../../src/img/offer-desktop.webp");
+    background-image: linear-gradient(45deg, rgba(255, 87, 34, 0.75), rgba(255, 193, 7, 0.75)), url("../../src/img/offer-desktop.webp");
   }
   .offers__option-img {
     -o-object-fit: cover;

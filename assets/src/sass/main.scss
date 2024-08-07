@@ -149,7 +149,7 @@ body {
     height: 100vh;
     text-align: center;
     color: $pure-white;
-    @include heroImages('/../../src/img/header-mobile.webp');
+    @include heroImages('../../src/img/header-mobile.webp');
     background-attachment: scroll;
 
     &__heading {
@@ -209,7 +209,7 @@ body {
 .hero-img {
     position: relative;
     padding: 10em 2em;
-    @include heroImages('/../../src/img/hero-mobile.webp');
+    @include heroImages('../../src/img/hero-mobile.webp');
     text-align: center;
     color: $pure-white;
     overflow: hidden;
@@ -256,15 +256,15 @@ body {
             transition: transform 1s, opacity 1s;
 
             &--first {
-                background-image: $light-yellow-gradient, url('/../../src/img/massage1.webp');
+                background-image: $light-yellow-gradient, url('../../src/img/massage1.webp');
             }
 
             &--second {
-                background-image: $orange-gradient, url('/../../src/img/massage2.webp');
+                background-image: $orange-gradient, url('../../src/img/massage2.webp');
             }
 
             &--third {
-                background-image: $purple-gradient, url('/../../src/img/massage3.webp');
+                background-image: $purple-gradient, url('../../src/img/massage3.webp');
             }
 
             &-title {
@@ -346,7 +346,7 @@ body {
 // OFFERS
 .offers {
     position: relative;
-    @include heroImages('/../../src/img/offer-mobile.webp');
+    @include heroImages('../../src/img/offer-mobile.webp');
     overflow: hidden;
 
     .section-heading {
@@ -723,7 +723,7 @@ body {
     }
 
     .header {
-        background-image: $orange-gradient, url('/../../src/img/header-desktop.webp');
+        background-image: $orange-gradient, url('../../src/img/header-desktop.webp');
 
         &__heading {
             font-size: 10rem;
@@ -759,7 +759,7 @@ body {
 
     .hero-img {
         padding: 40rem 2em;
-        background-image: $orange-gradient, url('/../../src/img/hero-desktop.webp');
+        background-image: $orange-gradient, url('../../src/img/hero-desktop.webp');
 
         &__title {
             font-size: 7.2rem;
@@ -772,7 +772,7 @@ body {
     }
 
     .offers {
-        background-image: $orange-gradient, url('/../../src/img/offer-desktop.webp');
+        background-image: $orange-gradient, url('../../src/img/offer-desktop.webp');
 
         &__option {
             &-img {
